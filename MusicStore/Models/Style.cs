@@ -7,6 +7,6 @@ namespace MusicStore.Models;
 public class Style
 {
     [Key]
-    [Required]
+    //[Required]
     public string? NameStyle { get; set; }
 }
